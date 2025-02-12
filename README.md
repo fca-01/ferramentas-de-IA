@@ -1,6 +1,6 @@
 # Ferramentas de IA Incríveis
 
-Uma lista selecionada das principais ferramentas de Inteligência Artificial  
+Repositório com diversas ferramentas de IA para otimizar seu trabalho. 
 
 ## Conteúdo  
 - [📝 Texto](#texto-com-ia)
