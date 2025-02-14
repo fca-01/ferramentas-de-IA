@@ -1,13 +1,13 @@
-# Ferramentas de IA Incríveis
+# 🌟 Coleção de Ferramentas de IA
 
-Repositório com diversas ferramentas de IA para otimizar seu trabalho. 
+Um repositório completo com ferramentas de Inteligência Artificial para aumentar sua produtividade, criatividade e eficiência em diversas áreas. 
 
-## Conteúdo  
+## 📂 Conteúdo  
 - [📝 Texto](#texto-com-ia)
     - [Modelos](#modelos)
     - [Motores de Busca](#motores-de-busca)
     - [Assistentes de Escrita](#assistentes-de-escrita)
-    - [Modelos](#modelos)
+    - [Extensões do ChatGPT](#extensões-do-chatgpt)
 - [🚀 Produtividade](#produtividade)
 - [👩‍💻 Ferramentas para Desenvolvedores ](#ferramentas-para-desenvolvedores )
     - [Código](#código)
@@ -20,7 +20,7 @@ Repositório com diversas ferramentas de IA para otimizar seu trabalho.
 - [🎯 Marketing](#marketing)  
   
 
-## Texto com IA  
+## 📝 Texto com IA  
 
 ### Modelos  
 
