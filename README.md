@@ -4,6 +4,7 @@ Repositório com diversas ferramentas de IA para otimizar seu trabalho.
 
 ## Conteúdo  
 - [📝 Texto](#texto-com-ia)
+    - [Modelos](#modelos)
 - [🚀 Produtividade](#produtividade) 
 - [👩‍💻 Ferramentas para Desenvolvedores ](#ferramentas-para-desenvolvedores )  
 - [🖼️ Imagem](#imagem)  
