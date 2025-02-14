@@ -20,7 +20,7 @@ Um repositório completo com ferramentas de Inteligência Artificial para aument
 - [🎯 Marketing](#marketing)  
   
 
-## 📝 Texto com IA  
+## Texto com IA  
 
 ### Modelos  
 
