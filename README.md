@@ -5,6 +5,7 @@ Um repositório completo com ferramentas de Inteligência Artificial para aument
 ## 📂 Conteúdo  
 - [📝 Texto](#texto-com-ia)
     - [Modelos](#modelos)
+    - [Chatbots](#chatbots)
     - [Motores de Busca](#motores-de-busca)
     - [Assistentes de Escrita](#assistentes-de-escrita)
     - [Extensões do ChatGPT](#extensões-do-chatgpt)
@@ -16,7 +17,8 @@ Um repositório completo com ferramentas de Inteligência Artificial para aument
     - [Serviços](#serviços)
     - [Design gráfico](#design-gráfico)
 - [📽️ Vídeos](#vídeo)  
-- [🎶 Áudio](#audio)  
+- [🎶 Áudio](#audio)
+    - [Clonagem de Voz com IA](#clonagem-de-voz-com-ia) 
 - [🎯 Marketing](#marketing)  
   
 
