@@ -11,14 +11,12 @@ Um repositório completo com ferramentas de Inteligência Artificial para aument
     - [Extensões do ChatGPT](#extensões-do-chatgpt)
 - [🚀 Produtividade](#produtividade)
 - [👩‍💻 Ferramentas para Desenvolvedores ](#ferramentas-para-desenvolvedores )
-    - [Código](#código)
 - [🖼️ Imagem](#imagem)
     - [Modelos](#modelos)
     - [Serviços](#serviços)
     - [Design gráfico](#design-gráfico)
 - [📽️ Vídeos](#vídeo)  
 - [🎶 Áudio](#audio)
-    - [Clonagem de Voz com IA](#clonagem-de-voz-com-ia) 
 - [🎯 Marketing](#marketing)  
   
 
