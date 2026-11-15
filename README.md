@@ -70,6 +70,7 @@ Um repositório completo com ferramentas de Inteligência Artificial para aument
 - [Jenni](https://jenni.ai/) - Assistente de escrita que economiza tempo na criação de ideias e redação.
 - [LAIKA](https://www.writewithlaika.com/) - Treina IA com base no seu estilo de escrita para criar um parceiro criativo personalizado.
 - [QuillBot](https://quillbot.com) - Ferramenta de paráfrase baseada em IA.
+- [HumanPen](https://humanpen.net/) - Reescreve e traduz documentos; usa créditos e oferece 100 gratuitos no cadastro.
 - [Postwise](https://postwise.ai/) - Escreva tweets, agende postagens e aumente seu público com IA.
 - [Copysmith](https://copysmith.ai/) - Solução de criação de conteúdo para empresas e e-commerce.
 - [Yomu](https://www.yomu.ai) - Assistente de escrita para estudantes e acadêmicos.
